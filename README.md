@@ -4,4 +4,4 @@
 
 Started on 1 October 2023 
 
-[view live site](https://christo-zero-john.github.io/learningFest_WebDomain-2023/
+[view live site](https://christo-zero-john.github.io/learningFest_WebDomain-2023/)
